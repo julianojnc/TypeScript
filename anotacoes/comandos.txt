@@ -1,0 +1,14 @@
+Todos os comandos presentes nesse texto são rodados no próprio terminal do VScode
+
+
+
+
+
+
+Comando para executar a compilação do código em TypeScript para JavaScript:
+
+tsc
+
+Comando para executar a compilação do código em TypeScript para JavaScript automaticamente:
+
+tsc -w
